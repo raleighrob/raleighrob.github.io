@@ -1,0 +1,14 @@
+While serving as team captain and conducting the Windows log analysis and report writing personally, our group earned a first-place finish and was awarded extra credit for our originality and thoroughness. 
+
+The project was organized into three days: 
+Day 1: Logs were provided for baseline analysis, report, and alert creation.
+Day 2: A second set of logs was provided for post-compromise analysis.
+Day 3: Group presentation. 
+
+Link to the presentation: https://docs.google.com/presentation/d/1HoiAtzDtLTUFv33jVGrthXx5w7qRBeqWd626MpAATRE/edit?usp=sharing
+
+Key Takeaways: 
+  The reporting and alerts that we created on Day 1 would have detected the attack early, allowing timely response, and potentially prevented the ultimate exfiltration of data. 
+  We were able to identify the methods and tactics used from the initial compromise, enumeration, privilege escalation, creating persistence, and exfiltration of data.
+  An assessment of the overall security was made, and recommendations were made to help mitigate future compromises.  
+
